@@ -1,0 +1,5 @@
+# A11yCheck
+> Free in-browser WCAG 2.2 AA checker using axe-core 4.14.1. Paste HTML, get a fix list.
+
+- Checker: https://basileion.github.io/a11ycheck/
+- Rules: https://basileion.github.io/a11ycheck/rules/
